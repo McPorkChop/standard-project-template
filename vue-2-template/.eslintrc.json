@@ -1,0 +1,25 @@
+{
+    "root": true,
+    "env": {
+        "browser": true,
+        "es2020": true,
+        "node": true
+    },
+    "extends": [
+        "plugin:import/errors",
+        "plugin:import/warnings",
+        "plugin:vue/essential",
+        "eslint:recommended",
+        "@vue/typescript/recommended"
+    ],
+    "parser": "vue-eslint-parser",
+    "parserOptions": {
+        "ecmaVersion": 2020,
+        "parser": "@typescript-eslint/parser",
+        "sourceType": "module"
+    },
+    "plugins": ["vue", "@typescript-eslint"],
+    "rules": {
+        "vue/html-indent": ["error", 4]
+    }
+}

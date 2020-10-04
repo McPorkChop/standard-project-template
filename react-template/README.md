@@ -18,24 +18,35 @@
 ├── public                                       // 静态资源文件夹
 ├── src
 │   ├── assets                                    // 资源文件夹
-│   ├── components                                // 通用组件
+│   │   └── ...
+│   ├── components                                // 通用组件（展示性组件）
+│   │   └── components1                           // 示例组件1
+│   │       ├── index.jsx/index.tsx               // 组件1根组件
+│   │       ├── index.scss                        // 组件1根组件样式
+│   │       └── ...
 │   ├── config                                    // 配置文件
+│   │   └── ...
 │   ├── data                                      // json数据
 │   ├── index.css                                 // 入口css
 │   ├── index.js                                  // 入口jsx
 │   ├── layout                                    // 通用布局模板
-│   ├── models                                    // 通用数据模型
+│   │   └── ...
+│   ├── models                                    // 通用数据模型（容器性组件）
+│   │   └── ...
+│   ├── store                                     // 状态管理
+│   │   └── ...
+│   ├── router.jsx/router.tsx                     // 路由
 │   ├── mobile                                    // 移动端
-│   │   ├── components                            // 移动端组件
-│   │   ├── layout                                // 移动端布局模板
+│   │   ├── components                            // 移动端组件（展示性组件）
+│   │   ├── layout                                // 移动端布局模板（容器性组件）
 │   │   ├── models                                // 移动端数据模型
-│   │   ├── page                                  // 移动端页面
+│   │   ├── pages                                 // 移动端页面
 │   │   └── services                              // 移动端服务
 │   ├── pc                                        // PC端
-│   │   ├── components                            // PC端组件
-│   │   ├── layout                                // PC端布局模版
+│   │   ├── components                            // PC端组件（展示性组件）
+│   │   ├── layout                                // PC端布局模版（容器性组件）
 │   │   ├── models                                // PC端数据模型
-│   │   ├── page                                  // PC端页面
+│   │   ├── pages                                 // PC端页面
 │   │   └── services                              // PC端服务
 │   └── utils                                     // 工具文件夹
 ├── tsconfig.json                                 // typescript 配置文件
