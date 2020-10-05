@@ -7,6 +7,11 @@
 ```
 .
 ├── README.md                                    // 项目说明文档
+├── .eslintrc.json                               // eslint配置
+├── .prettierrc.json                             // prettier配置
+├── .gitignore                                   // git忽略配置
+├── .vscode                                      // vscode工作区配置
+│   └── ...
 ├── build                                        // 项目发布配置
 │   ├── webpack.analysis.js                      // 性能分析配置
 │   ├── webpack.app-dev.js                       // 移动端测试环境配置
@@ -86,9 +91,9 @@ yarn build
 ## 检查格式规范
 
 ```nodejs
-npm run eslint
+npm run lint
 #OR
-yarn eslint
+yarn lint
 ```
 
 ## 全局格式化代码文件
