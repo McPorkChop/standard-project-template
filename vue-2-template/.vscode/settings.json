@@ -12,14 +12,14 @@
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true,
+        "source.fixAll": true,
         "source.organizeImports": true
     },
     "editor.formatOnSave": true,
     "editor.suggestSelection": "first",
     "editor.lineNumbers": "on",
     "vetur.format.options.tabSize": 4,
-    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "vetur.format.defaultFormatter.html": "prettier",
     "vetur.format.defaultFormatter.css": "prettier",
     "vetur.format.defaultFormatter.postcss": "prettier",
     "vetur.format.defaultFormatter.scss": "prettier",
