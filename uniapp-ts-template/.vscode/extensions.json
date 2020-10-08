@@ -10,6 +10,7 @@
         "esbenp.prettier-vscode",
         "loiane.ts-extension-pack",
         "octref.vetur",
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "bejjang2.vue-jsdoc"
     ]
 }
