@@ -41,7 +41,7 @@
         "test:mp-baidu": "cross-env UNI_PLATFORM=mp-baidu jest -i",
         "test:mp-weixin": "cross-env UNI_PLATFORM=mp-weixin jest -i",
         "lint": "vue-cli-service lint",
-        "format": "prettier --write 'src/*.vue' 'src/*.js' 'src/*.jsx' 'src/*.ts' 'src/*.tsx'"
+        "format": "prettier --write './src/**/*.vue' './src/**/*.js' './src/**/*.jsx' './src/**/*.ts' './src/**/*.tsx'"
     },
     "dependencies": {
         "@dcloudio/uni-app-plus": "^2.0.0-28920200927001",
