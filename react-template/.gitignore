@@ -8,9 +8,6 @@
 # testing
 /coverage
 
-# production
-/build
-
 # misc
 .DS_Store
 .env.*.local
@@ -27,6 +24,7 @@ logs
 **/*.back.*
 
 node_modules
+*.lock
 bower_components
 
 

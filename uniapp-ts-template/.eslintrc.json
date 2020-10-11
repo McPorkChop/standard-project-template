@@ -17,8 +17,6 @@
     },
 
     "extends": [
-        "plugin:import/errors",
-        "plugin:import/warnings",
         "plugin:vue/essential",
         "eslint:recommended",
         "@vue/typescript/recommended"
