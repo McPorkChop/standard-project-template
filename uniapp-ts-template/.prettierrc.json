@@ -11,5 +11,6 @@
     "bracketSpacing": true,
     "endOfLine": "lf",
     "eslintIntegration": true,
-    "printWidth": 80
+    "printWidth": 80,
+    "max_preserve_newlines": 1
 }

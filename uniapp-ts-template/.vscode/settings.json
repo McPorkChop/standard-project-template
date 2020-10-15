@@ -31,11 +31,6 @@
     "vetur.format.defaultFormatter.stylus": "stylus-supremacy",
     "vetur.format.defaultFormatter.js": "none",
     "vetur.format.defaultFormatter.ts": "none",
-    "vetur.format.defaultFormatterOptions": {
-        "prettier": {
-            "max_preserve_newlines": 1
-        }
-    },
 
     "javascript.format.semicolons": "insert",
     "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
