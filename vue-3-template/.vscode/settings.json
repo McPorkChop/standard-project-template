@@ -8,7 +8,7 @@
     "[javascript]": {
         "editor.defaultFormatter": "vscode.typescript-language-features"
     },
-    "editor.tabSize": 4,
+    "editor.tabSize": 2,
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.codeActionsOnSave": {
@@ -18,7 +18,11 @@
     "editor.formatOnSave": true,
     "editor.suggestSelection": "first",
     "editor.lineNumbers": "on",
-    "vetur.format.options.tabSize": 4,
+
+    "vetur.format.scriptInitialIndent": true,
+    "vetur.format.styleInitialIndent": true,
+    "vetur.validation.templateProps": true,
+    "vetur.format.options.tabSize": 2,
     "vetur.format.defaultFormatter.html": "prettier",
     "vetur.format.defaultFormatter.css": "prettier",
     "vetur.format.defaultFormatter.postcss": "prettier",

@@ -1,15 +1,15 @@
 {
-    "tabWidth": 4,
-    "useTabs": false,
-    "arrowParens": "avoid",
-    "trailingComma": "none",
-    "vueIndentScriptAndStyle": true,
-    "htmlWhitespaceSensitivity": "ignore",
-    "semi": true,
-    "requireConfig": true,
-    "singleQuote": false,
-    "bracketSpacing": true,
-    "endOfLine": "lf",
-    "eslintIntegration": true,
-    "printWidth": 80
+  "tabWidth": 2,
+  "useTabs": false,
+  "arrowParens": "avoid",
+  "trailingComma": "none",
+  "vueIndentScriptAndStyle": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "semi": true,
+  "requireConfig": true,
+  "singleQuote": false,
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "eslintIntegration": true,
+  "printWidth": 80
 }

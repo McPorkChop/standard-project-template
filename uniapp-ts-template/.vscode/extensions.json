@@ -11,6 +11,11 @@
         "loiane.ts-extension-pack",
         "octref.vetur",
         "visualstudioexptteam.vscodeintellicode",
-        "bejjang2.vue-jsdoc"
+        "nicholashsiang.vscode-javascript-comment",
+        "ecmel.vscode-html-css",
+        "abusaidm.html-snippets",
+        "jcbuisson.vue",
+        "MS-CEINTL.vscode-language-pack-zh-hans",
+        "xabikos.JavaScriptSnippets",
     ]
 }

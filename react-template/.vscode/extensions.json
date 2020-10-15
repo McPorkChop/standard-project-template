@@ -9,6 +9,7 @@
         "christian-kohler.path-intellisense",
         "esbenp.prettier-vscode",
         "loiane.ts-extension-pack",
-        "visualstudioexptteam.vscodeintellicode"
+        "visualstudioexptteam.vscodeintellicode",
+        "nicholashsiang.vscode-javascript-comment"
     ]
 }
