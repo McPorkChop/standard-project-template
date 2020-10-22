@@ -12,6 +12,8 @@
 .
 ├── LICENSE
 ├── README.md
+├── config-for-vue                    // Vue项目开发环境配置（项目模板中已经包含）
+├── config-for-flutter                // flutter项目开发环境配置
 ├── react-template                    // react 项目模板
 ├── uniapp-js-template                // uniapp javascript版本模版
 ├── uniapp-ts-template                // uniapp typescript版本模版

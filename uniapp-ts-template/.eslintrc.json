@@ -23,8 +23,7 @@
     ],
     "plugins": ["vue", "@typescript-eslint"],
     "rules": {
-        "no-console": "warn",
-        "vue/html-indent": ["error", 4]
+        "no-console": "warn"
     },
     "globals": {
         "uni": "readonly",

@@ -17,6 +17,5 @@
         "sourceType": "module"
     },
     "rules": {
-        "vue/html-indent": ["error", 4]
     }
 }
