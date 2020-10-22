@@ -1,0 +1,16 @@
+{
+    "recommendations": [
+      "nash.awesome-flutter-snippets",
+      "coenraads.bracket-pair-colorizer-2",
+      "dart-code.dart-code",
+      "streetsidesoftware.code-spell-checker",
+      "eamodio.gitlens",
+      "christian-kohler.path-intellisense",
+      "editorconfig.editorconfig",
+      "bendixma.dart-data-class-generator",
+      "visualstudioexptteam.vscodeintellicode",
+      "dart-code.flutter",
+      "jeroen-meijer.pubspec-assist",
+      "MS-CEINTL.vscode-language-pack-zh-hans"
+    ]
+  }
